@@ -2,7 +2,6 @@
 
 ## 🤖 Atualmente sou graduando de Sistemas de Informação na UFRRJ
 
-![Viniciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjnnxx&show_icons=true&theme=midnight-purple)
 
 <div>
   <a href="https://github.com/vjnnxx">
