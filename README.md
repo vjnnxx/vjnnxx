@@ -1,6 +1,6 @@
 ## Olá, meu nome é Vinicius Floriano 👋
 
-### 🤖 Atualmente sou graduando de Sistemas de Informação na UFRRJ
+### Sou graduando de Sistemas de Informação na UFRRJ 🤖
 
 ---
 
