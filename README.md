@@ -24,4 +24,4 @@
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/vinicius-floriano-781195183/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florianovinicius@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florianovinicius09@gmail.com)
