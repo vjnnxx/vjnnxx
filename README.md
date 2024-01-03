@@ -1,4 +1,4 @@
-## Hello, my name Vinicius Floriano 👋
+## Olá, meu nome é Vinicius Floriano 👋
 
 ### 🤖 Atualmente sou graduando de Sistemas de Informação na UFRRJ
 
